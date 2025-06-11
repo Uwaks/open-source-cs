@@ -38,7 +38,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](imp.i384100.net/6b13dV) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://imp.i384100.net/6b13dV) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge
 [Build a Modern Computer from First Principles: From Nand to Tetris II](https://imp.i384100.net/dovNVq) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
 <!-- [Introduction to Operating Systems](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=53187&murl=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Foperating-systems--ud923)| Udacity | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II -->
 
